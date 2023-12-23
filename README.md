@@ -11,7 +11,7 @@ With this program, you can get information about the file name and number of the
 ## Fix and update:
 For the development of this application, I would be happy to announce if you have any suggestions
 ## Author:
-Maryam Jamali :-)
+Maryam Jamali 💕
 
 
 
